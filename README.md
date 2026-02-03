@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Estudiante de Ingeniería de Sistemas | Full Stack Developer
 
-¡Bienvenido a mi perfil! Soy un estudiante apasionado por el desarrollo web y la ingeniería de datos. Actualmente estoy en el 8vo ciclo de mi carrera y me especializo en construir aplicaciones escalables y analizar datos para la toma de decisiones.
+¡Bienvenido a mi perfil! Soy un estudiante apasionado por el desarrollo web y la ingeniería de datos. Actualmente estoy en el 9vo ciclo de mi carrera y me especializo en construir aplicaciones escalables y analizar datos para la toma de decisiones.
 
 ---
 
